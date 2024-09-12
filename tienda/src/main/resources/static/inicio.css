@@ -1,0 +1,4 @@
+.card-transparent {
+    background-color: rgb(255, 255, 255); /* Fondo negro con 20% de opacidad */
+    border: 2px solid rgba(145, 7, 7, 0.938); /* Borde negro con 12.5% de opacidad */
+}
